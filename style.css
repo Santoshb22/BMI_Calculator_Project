@@ -1,0 +1,12 @@
+body {
+    background-color: azure;
+}
+
+.bmi-calc{
+    text-align: center;
+    margin-top: 250px;
+}
+
+.height, .weight {
+    margin-bottom: 20px;
+}
